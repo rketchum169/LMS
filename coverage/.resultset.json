@@ -1,0 +1,269 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/environment.rb": [
+        null,
+        1,
+        null,
+        null,
+        1
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/application.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/boot.rb": [
+        1,
+        null,
+        1,
+        1
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/environments/test.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/initializers/application_controller_renderer.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/initializers/assets.rb": [
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/initializers/backtrace_silencers.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/initializers/content_security_policy.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/initializers/cookies_serializer.rb": [
+        null,
+        null,
+        null,
+        null,
+        1
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/initializers/filter_parameter_logging.rb": [
+        null,
+        null,
+        null,
+        1
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/initializers/inflections.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/initializers/mime_types.rb": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/initializers/wrap_parameters.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/config/routes.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/app/helpers/assignments_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/app/helpers/courses_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/app/helpers/grades_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/app/helpers/students_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/spec/models/course_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/app/models/course.rb": [
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/spec/models/grade_spec.rb": [
+
+      ],
+      "/Users/ryan/Desktop/dpl_prepwork/week9/LMS/spec/models/student_spec.rb": [
+
+      ]
+    },
+    "timestamp": 1579980623
+  }
+}
