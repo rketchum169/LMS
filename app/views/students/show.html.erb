@@ -3,7 +3,14 @@
 <p>
   <strong>Name:</strong>
   <%= @student.name %>
+  -
+  <br>
+  <% @student.grades.each do |g|%>
+  <br> 
+  <%= link_to g.letter, assignment_path %>
+  - 
+  <%= g.score %>
+  <% end %>
 </p>
 
-<%= link_to 'Edit', edit_student_path(@student) %> |
-<%= link_to 'Back', students_path %>
+<%= link_to 'Back', :back %>

@@ -3,6 +3,12 @@
 <p>
   <strong>Title:</strong>
   <%= @course.title %>
+  <br>
+  <% @course.students.each do |s| %>
+  <p><%=link_to s.name, student_path %><p>
+
+
+  <% end %>
 </p>
 
 <%= link_to 'Edit', edit_course_path(@course) %> |
